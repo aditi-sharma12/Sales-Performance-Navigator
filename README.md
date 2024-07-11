@@ -60,7 +60,6 @@ Include an image or screenshot of your dashboard here to give users a visual pre
 
 ![Sales Dashboard](https://github.com/aditi-sharma12/Sales-Dashboard/assets/125428111/226170b5-a6b9-43f8-a1bf-3b043e974288)
 
-Above: Screenshot of the Sales Dashboard showcasing key insights and visualizations.
 
 ## Bug Reporting and Feature Requests
 
