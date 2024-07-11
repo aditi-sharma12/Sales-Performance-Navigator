@@ -1,4 +1,4 @@
-# Sales Dashboard
+# Sales-Performance-Navigator
 
 This project aims to develop a comprehensive Power BI Dashboard for analyzing sales data. The dashboard provides insights into various aspects of sales performance, helping stakeholders make informed decisions based on data-driven analysis.
 
@@ -14,7 +14,7 @@ This project aims to develop a comprehensive Power BI Dashboard for analyzing sa
 
 ## Introduction
 
-The Sales Dashboard project leverages Power BI's capabilities to visualize and analyze sales data. The dashboard provides key metrics and visualizations that enable users to monitor sales trends, profitability, customer insights, and more.
+The Sales-Performance-Navigator project leverages Power BI's capabilities to visualize and analyze sales data. The dashboard provides key metrics and visualizations that enable users to monitor sales trends, profitability, customer insights, and more.
 
 ## Dashboard Features
 
